@@ -1,0 +1,9 @@
+C:\Users\46432\OneDrive\序列号查询\序列号查询\bin\Release\序列号查询.exe.config
+C:\Users\46432\OneDrive\序列号查询\序列号查询\bin\Release\序列号查询.exe
+C:\Users\46432\OneDrive\序列号查询\序列号查询\bin\Release\序列号查询.pdb
+C:\Users\46432\OneDrive\序列号查询\序列号查询\obj\Release\序列号查询.Form1.resources
+C:\Users\46432\OneDrive\序列号查询\序列号查询\obj\Release\序列号查询.Properties.Resources.resources
+C:\Users\46432\OneDrive\序列号查询\序列号查询\obj\Release\序列号查询.csproj.GenerateResource.cache
+C:\Users\46432\OneDrive\序列号查询\序列号查询\obj\Release\序列号查询.csproj.CoreCompileInputs.cache
+C:\Users\46432\OneDrive\序列号查询\序列号查询\obj\Release\序列号查询.exe
+C:\Users\46432\OneDrive\序列号查询\序列号查询\obj\Release\序列号查询.pdb
